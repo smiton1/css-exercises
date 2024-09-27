@@ -1,0 +1,17 @@
+.number{
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu sans', sans-serif
+}
+.second{
+    background-color: white;
+    color: blue;
+    font-size: 36px;
+}
+.first,.third,.fifth{
+    font-size: 24px;
+}
+.fourth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
